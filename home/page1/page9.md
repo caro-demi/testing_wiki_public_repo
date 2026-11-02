@@ -14,3 +14,5 @@ Your content here
 testing image sync
 
 ![images_(3).jpg](/images_(3).jpg)![images_(1).png](/images/images_(1).png)
+
+![images_git.png](/home/page1/images/images_git.png)
